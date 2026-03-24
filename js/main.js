@@ -63,7 +63,7 @@ $(function() {
     centerMode: true,
     centerPadding: "80px",
     slidesToShow: 2,
-    autoplay: false,
+    autoplay: true,
     autoplaySpeed: 5000,
     responsive: [
       {
